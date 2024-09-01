@@ -30,8 +30,8 @@ To set up and use the Reddit Comment Generator, follow these steps:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/feder-cr/karma_farmer_auto_commentator_with_AI.git
-   cd karma_farmer_auto_commentator_with_AI
+   git clone https://github.com/feder-cr/reddit_karma_farmer_auto_commentator_with_AI.git
+   cd reddit_karma_farmer_auto_commentator_with_AI
    ```
 
 2. **Create a Virtual Environment (optional but recommended)**
