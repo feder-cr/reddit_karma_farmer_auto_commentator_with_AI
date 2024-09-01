@@ -1,4 +1,34 @@
+<div align="center">
+    <img src="https://i.postimg.cc/XGdDt5tP/linkedin-aihawk.png" alt="AIhawk" />
+
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/federico-elia-5199951b6/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:federico.elia.majo@gmail.com)
+
 # Reddit_Commentator_AIHawk
+
+
+<br />
+
+
+
+## 🚀 Join the AIHawk Community 🚀
+
+Connect with like-minded individuals and get the most out of AIHawk.
+
+💡 **Get support:** Ask questions, troubleshoot issues, and find solutions.
+
+🗣️ **Share knowledge:** Share your experiences, tips, and best practices.
+
+🤝 **Network:** Connect with other professionals and explore new opportunities.
+
+🔔 **Stay updated:** Get the latest news and updates on AIHawk.
+
+### Join Now 👇
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AIhawkCommunity)
+</div>
+
 
 ## Table of Contents
 - [Introduction](#introduction)
