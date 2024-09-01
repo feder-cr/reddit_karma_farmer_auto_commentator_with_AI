@@ -1,4 +1,4 @@
-# Reddit_Comment_AIHawk
+# Reddit_Commentator_AIHawk
 
 ## Table of Contents
 - [Introduction](#introduction)
