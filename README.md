@@ -118,6 +118,12 @@ The Reddit Comment Generator is a powerful tool for automating Reddit comment cr
 
 - [feder-cr](https://github.com/feder-cr) - Creator and Lead Developer
 
+## Other projects
+
+Most of what I work on now is [invisible_playwright](https://github.com/feder-cr/invisible_playwright),
+a Playwright replacement built on a Firefox patched at the source level, so the browser
+fingerprint is set inside the engine rather than injected from the page.
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
