@@ -124,6 +124,12 @@ Most of what I work on now is [invisible_playwright](https://github.com/feder-cr
 a Playwright replacement built on a Firefox patched at the source level, so the browser
 fingerprint is set inside the engine rather than injected from the page.
 
+A few pages from its docs:
+
+- [navigator.webdriver is not the tell you think it is](https://github.com/feder-cr/invisible_playwright/blob/main/docs/navigator-webdriver-explained.md)
+- [How to test whether your browser is detected](https://github.com/feder-cr/invisible_playwright/blob/main/docs/how-to-test-bot-detection.md)
+- [Three ways to make Playwright undetected](https://github.com/feder-cr/invisible_playwright/blob/main/docs/playwright-stealth-levels.md)
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
