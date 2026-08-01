@@ -1,3 +1,5 @@
+[![Sponsored](https://readmead.site/api/ad/feder-cr)](https://readmead.site/api/click/feder-cr)
+
 <div align="center">
     <img src="https://i.postimg.cc/XGdDt5tP/linkedin-aihawk.png" alt="AIhawk" />
 
